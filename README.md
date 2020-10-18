@@ -2,7 +2,7 @@
 Collection of my Goldman Sachs coding projects
 
 # CodeSprint
--Bank Accounts
+- Bank Accounts
 Statistics
 Difficulty: Easy
 
