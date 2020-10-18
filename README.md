@@ -5,3 +5,4 @@ Collection of my Goldman Sachs coding projects
 - Bank Accounts
 - Buy Maximum Stocks
 - Trader Profit
+- Time Series Queries
